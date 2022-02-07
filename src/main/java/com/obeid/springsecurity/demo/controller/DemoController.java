@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import net.bytebuddy.matcher.ModifierMatcher.Mode;
 
 @Controller
-public class DenoController {
+public class DemoController {
 	
 	// inject property holder
 	@Autowired
