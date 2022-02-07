@@ -1,0 +1,15 @@
+1- create new Maven-webApp with dependenies:
+    - spring-webmvc
+    - spring-security-web
+    - spring-security-config
+    - spring-security-taglibs
+    - spring-tx (Spring Transactions)
+    - spring-orm
+    - hibernate-core
+    - hibernate-validator
+    - mysql-connector-java
+    - c3p0
+    - javax.servlet-api
+    - javax.servlet.jsp-api
+    - jstl
+    - junit
