@@ -21,12 +21,6 @@ public class DemoController {
 		return "home";
 	}
 	
-	@GetMapping("/test")
-	public String testEnvirument(Model model) {
-		String test = env.getProperty("foo.test");
-		model.addAttribute("test", test);
-		return "test";
-	}
 	
 	
 
