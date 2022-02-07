@@ -20,4 +20,9 @@
     /src/main/webapp/asset: for css,js, img ...
     /src/main/resources: for properties file
     test if the assets & properties are accessable
+5- create database
+7- add the db as dataSource
+8- place db, hibernate infos in src\main\resources\presistence.properties
+      update DemoConfig: define dataSource, load properties
+
 
