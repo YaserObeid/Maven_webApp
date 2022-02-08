@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.obeid</groupId>
-  <artifactId>user-registration-webApp</artifactId>
+  <artifactId>maven.web-app</artifactId>
   <version>1.0.0</version>
   <packaging>war</packaging>
 
-  <name>user-registration-webApp</name>
+  <name>maven.web-app</name>
   
 
   <properties>
