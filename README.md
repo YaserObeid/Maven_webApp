@@ -1,8 +1,3 @@
-# User Registration - Custom User Details
+# Base Maven web app
 
-## Spring Security
-
-Perform user registration - custom user details
-with Spring Security using Hibernate.
-
-### pure java code - no-xml
+### base config java code - no-xml
